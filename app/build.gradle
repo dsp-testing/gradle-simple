@@ -17,7 +17,7 @@ plugins {
 repositories {
     // Use Maven Central for resolving dependencies.
     mavenCentral()
-    maven { url "http://127.0.0.1:2345" }
+    maven { url "http://example.com" }
 }
 
 dependencies {
