@@ -1,3 +1,6 @@
 [submodule "submodule"]
 	path = buildSrc
 	url = https://github.com/dsp-testing/simple-go
+[submodule "private"]
+	path = private
+	url = https://github.com/dependabot/private
