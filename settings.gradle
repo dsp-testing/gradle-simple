@@ -8,4 +8,5 @@
  */
 
 rootProject.name = 'gradle-simple'
-include('gone')
+include('app')
+include('submodule')
