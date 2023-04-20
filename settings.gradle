@@ -9,4 +9,4 @@
 
 rootProject.name = 'gradle-simple'
 include('app')
-includeBuild("none")
+includeBuild("buildSrc")
