@@ -1,5 +1,5 @@
 [submodule "submodule"]
-	path = buildSrc
+	path = include
 	url = https://github.com/dsp-testing/simple-go
 [submodule "private"]
 	path = private
