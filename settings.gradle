@@ -9,4 +9,3 @@
 
 rootProject.name = 'gradle-simple'
 include('app')
-include('submodule')
