@@ -9,6 +9,6 @@
 
 rootProject.name = 'gradle-simple'
 include('app')
-//includeBuild("include")
+includeBuild("include")
 //includeBuild("private")
 includeBuild("none")
